@@ -1,3 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Arabic:100,200,300,400,500,600,700&display=swap);
+
+
+
+
+
 .btn {
   border-width: 2px;
 }
@@ -5,7 +11,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 7rem;
   line-height: 1.1;
 }
@@ -13,7 +19,7 @@ body {
   font-size: 8.75rem;
 }
 .display-2 {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 3.8rem;
   line-height: 1.1;
 }
@@ -21,7 +27,7 @@ body {
   font-size: 4.75rem;
 }
 .display-4 {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -29,7 +35,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 7rem;
   line-height: 1.5;
 }
@@ -37,7 +43,7 @@ body {
   font-size: 8.75rem;
 }
 .display-7 {
-  font-family: 'IBMPlexSansArabic-Medium';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -584,7 +590,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -598,7 +604,7 @@ a:hover {
   border-color: #1538b2 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'IBMPlexSansArabic-Bold';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1222,12 +1228,6 @@ a {
 .cid-sVlAGcm8lh .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
-}
 .cid-sVlG0U7jHV {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1598,12 +1598,6 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
 }
 .cid-sVlWFSRumv {
   padding-top: 5rem;
@@ -1976,12 +1970,6 @@ a {
     left: -1rem;
   }
 }
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
-}
 .cid-sVmgaCkWzY .navbar-dropdown {
   position: relative !important;
 }
@@ -2352,12 +2340,6 @@ a {
   justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
-}
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
 }
 .cid-t2XxB9bebW .navbar-dropdown {
   position: relative !important;
@@ -2730,12 +2712,6 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
-}
 .cid-t2XOzwyCm7 .navbar-dropdown {
   position: relative !important;
 }
@@ -3107,12 +3083,6 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
-}
 .cid-t2Y3smldnh .navbar-dropdown {
   position: relative !important;
 }
@@ -3483,10 +3453,4 @@ a {
   justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
-}
-.cid-t2Zt2tGlit {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #1538b2;
-  overflow: hidden;
 }
