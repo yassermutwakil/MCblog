@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'GRAPHIK ARABIC BLACK';
+   font-display: swap;
+   src: url('GRAPHIK ARABIC BLACK/font.OTF');
+}
+@font-face {
+   font-family: 'GRAPHIK ARABIC BOLD';
+   font-display: swap;
+   src: url('GRAPHIK ARABIC BOLD/font.OTF');
+}
+@font-face {
+   font-family: 'GRAPHIK ARABIC MEDIUM';
+   font-display: swap;
+   src: url('GRAPHIK ARABIC MEDIUM/font.OTF');
+}
+@font-face {
+   font-family: 'GRAPHIK ARABIC THIN';
+   font-display: swap;
+   src: url('GRAPHIK ARABIC THIN/font.OTF');
+}
